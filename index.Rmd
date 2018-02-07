@@ -1,0 +1,33 @@
+---
+title:
+author: "cjlortie"
+date: "2018"
+output:
+  html_document:
+    theme: spacelab
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+  pdf_document:
+    toc: yes
+---
+##PR: Performance Running
+
+<br>
+
+![](./run.jpg)  
+
+<br>
+
+###Context  
+Currently in running culture, there is a deluge of sensors and mechanisms to track running coupled with an increasing focus on sharing performance and PRs.  A PR is typically defined as a personal record (sometimes termed a PB:personal best). The standard conceptualization of a personal record is either longest distance or speed/fastest time to complete a given distance. There are nuances with the handling of this concept, i.e. one can share and define a PR for a race in a specific context such as terrain, season, or shifting age class. Nonetheless, the proxies used for performance are distance or speed. However, the advent of affordable technology, biofeedback, and social feedback tools such as Strava provide an additional and novel opportunity to reframe running performance. A personal record can be a run that focuses on a more holistic definition of performance including biomechanical form, resilience, breathing, recovery, and mindfulness. This is a more zen/chi-grounded/systemic view of running performance that can in turn directly and indirectly influence the relatively more traditional measures of performance (distance and speed). Ultrarunners and triathletes embody this philosophy in their training and racing through sequential competition or bricking workouts, i.e. resilience and recovery is often fundamental to success and performance is modeled over longer time frames. Consequently, I propose co-opting and using the abbreviation PR for a performance run whereby one defines performance more broadly and celebrates work and achievement of other goals including resilience. Synonymously, this can be framed as operational running, directed practice running, or functional goal running. Focus on performance runs associated with biomechanical and form goals can be measured through sensors such as the Lumo Run that provides feedback using 5 distinct but not fully independent metrics or through stress-test runs. It is often a challenge to induce stress similar to the cardiac stress test (or analogs in the social sciences), and this is an important gap that needs both sensors, baseline data, and external feedback. The capacity to extend longitudinal tracking beyond change trajectories to include a delta of resilience to instrumented, directed running interventions needs not only technology but the capacity to mark individual data points within big data shifts and feedback from experts grounded in data and running science.
+
+###Workflow
+1. Workshop to calibrate scope and need.  
+
+2. Synthesis of existing research (meta-analyses, systematic reviews, and potential big data streams).  
+3. Integrated, simple sensor array to measure performance more holistically.
+
+4. Experimentation to inform data markers and identify the delta-sensitivies within competitive and elite runners.  
+
+5. Examination of running culture to identify leverage points.
